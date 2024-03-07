@@ -1,6 +1,3 @@
 # stuff
 
-[Personal Operating Manual](/LFC114/POM.md)
-
-
-[Accomplishment Tracking System](/LFC114/ATS.md)
+[LFC114](/LFC114/README.md)
