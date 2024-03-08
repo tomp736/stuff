@@ -3,7 +3,7 @@
 - [Templates](#templates)
   - [Personal Operating Manual](/LFC114/POM.md)
   - [Accomplishment Tracking System](/LFC114/ATS.md)
-- [Communication Strategies for Remote Work](#communication-strategies-for-remote-work)
+- [Communication Strategies for Remote Work](/LFC114/README.md#communication-strategies-for-remote-work)
   - [Low Context Communication](#low-context-communication)
   - [Contrition](#contrition)
   - [Time-Boxed Communication](#time-boxed-communication)
